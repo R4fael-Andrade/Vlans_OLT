@@ -53,9 +53,10 @@ ul {
 }
 
 @media (max-width: 768px) {
-    .container {
-        widt: 90%;
-        margin: 0 auto;
+
+    #root {
+        width: 90%;
+        
     }
 }
 
